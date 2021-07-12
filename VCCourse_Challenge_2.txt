@@ -1,0 +1,1 @@
+This is my text file that I am creating for the usage of Git Bash to upload and commit this file to Tech-Academy-Projects.
